@@ -27,7 +27,7 @@
  *          `-----'   `--------------------'            `--------------------'   `-----'
  */
 			bindings = <
-	&kp J		&kp C		&kp Y		&kp F		&kp K			&kp Z	&kp L		&kp ,		&kp U		&kp Q
+	&kp J		&kp C		&kp Y		&kp F		&kp K			&kp Z	&kp L		&kp COMMA	&kp U		&kp Q
 	&mt LGUI R	&mt LALT S	&mt LCTRL T	&mt LSHFT H	&kp D			&kp M	&mt LSHFT N	&mt LCTRL A	&mt LALT I	&mt LGUI O
 	&kp FSLH	&kp V		&kp G		&kp P		&kp B			&kp X	&kp W		&kp DOT 	&kp SEMI	&kp MINUS
 	&kp N1		&lt 3 DEL	&lt 1 SPACE	&kp TAB		&kp N2			&kp N3	&kp ESC		&kp BSPC	&lt 2 RET	&kp N4
